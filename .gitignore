@@ -79,3 +79,4 @@ DerivedDataCache/*
 /Releases
 /Package
 /Content/AXYZAssets
+*.zip
